@@ -1,0 +1,84 @@
+*{
+padding: 0;
+margin: 0;    
+}
+.Footer{
+    width: 1120px;
+    margin: auto;
+    display: flex;
+    padding: 60px 0 60px;
+}
+
+.tg{
+    width: 30px;
+    height: 30px;
+    margin:0 15px 0 0;
+}
+.Trev{
+    display: block;
+    font-family: cursive;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    padding-top: 15px;
+    padding-bottom: 40px;
+}
+.Conatact{
+    color: azure;
+    font-size: 18px;
+}
+.href2 {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    font-family: -webkit-pictograph;
+    padding-top: 15px;
+    font-size: 20px;
+    padding-bottom: 23px;
+}
+.links .FooterLink{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding-bottom:20px;
+    font-weight: 600;
+}
+.links{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px ;
+    padding-left: 100px;
+}
+.input{
+    padding: 20px 80px;
+
+}
+.write{
+    color: white;
+    font-size: 35px;
+    font-family: initial;
+    padding-bottom: 35px;
+}
+.inp1{
+    width: 200px;
+    height: 45px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.button1{
+    padding-top: 92px;
+}
+.btn1 {
+    padding: 10px 35px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    background: transparent;
+}
+.links .FooterLink:hover{
+    text-decoration: underline;
+}
+.big{
+    background: black;
+}
